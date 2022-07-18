@@ -23,9 +23,9 @@ Hi, I'm Gaurav Sharan,a 3rd year engineering student pursuing B.Tech in Computer
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Web Development and Android Development;
+- 🌱 I’m currently learning Web Development ;
 - 🤔 I’m looking for help with Data Structures and Algorithms;
-- :monocle_face: I am also interested in Machine learning and Google Cloud;
+- :monocle_face: I am also interested in Web3 and Google Cloud;
 - 📫 How to reach me: gaurav.sharanrd@gmail.com;
 
 
