@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Gaurav Sharan,a 3rd year engineering student pursuing B.Tech in Computer Science from JIIT,Noida.
+Hi, I'm Gaurav Sharan,final year engineering student pursuing B.Tech in Computer Science from JIIT,Noida.
 
 **Talking about Personal Stuffs:**
 
