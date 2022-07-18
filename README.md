@@ -12,7 +12,7 @@
 <a href="https://leetcode.com/gaurav_saran/">
   <img align="left" alt="Gaurav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/users/gauravshhh">
+<a href="https://www.codechef.com/users/code4004">
   <img align="left" alt="Gaurav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
