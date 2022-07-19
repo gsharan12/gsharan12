@@ -15,6 +15,9 @@
 <a href="https://www.codechef.com/users/code4004">
   <img align="left" alt="Gaurav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
+<a href="https://codeforces.com/profile/gauravshhh">
+  <img align="left" alt="Gaurav's Codechef" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/codeforces.svg" />
+</a>
 
 <br />
 <br />
