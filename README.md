@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/gaurav-sharan-1bb346194/">
   <img align="left" alt="Gauravs's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/gauravshhhran_1/">
-  <img align="left" alt="Gaurav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://leetcode.com/gaurav_saran/">
   <img align="left" alt="Gaurav's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
